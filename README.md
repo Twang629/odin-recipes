@@ -1,0 +1,1 @@
+This appears to be a project regarding a website for sharing recipes.
